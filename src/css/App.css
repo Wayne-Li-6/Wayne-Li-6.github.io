@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Lexend+Tera&effect=distressed');
+
+.hd1 {
+  font-family: 'Lexend Tera', serif;
+  font-size: 85px;
+  fill: #282c34;
+}
+
 .App {
   text-align: center;
 }
@@ -14,8 +22,11 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: #eeeeee;
+  min-height: 600px;
+  min-width: 800px;
+  max-height: 100vh;
+  overflow-y: auto;
   display: flex;
   flex-direction: column;
   align-items: center;

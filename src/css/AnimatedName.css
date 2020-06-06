@@ -1,11 +1,29 @@
 #svgMain {margin-left:auto; margin-right:auto; display:block;}
 
-.st1 {
+.pa1 {
     fill: none;
-    stroke: #eeeeee;
-    stroke-width: 7;
+    stroke: #282c34;
+    stroke-width: 10;
     stroke-linecap: round;
     stroke-miterlimit: 10;
+}
+
+.re1 {
+    fill: none;
+    stroke: #282c34;
+    stroke-width: 6;
+}
+
+#re2 {
+    fill: none;
+    stroke: #282c34;
+    stroke-width: 6;
+}
+
+#re3 {
+    fill: none;
+    stroke: #282c34;
+    stroke-width: 6;
 }
 
 .dot {
