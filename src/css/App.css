@@ -1,13 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Lexend+Tera&effect=distressed');
-
-.hd1 {
-  font-family: 'Lexend Tera', serif;
-  font-size: 85px;
-  fill: #282c34;
-}
-
 .App {
   text-align: center;
+  color: #eeeeee;
 }
 
 .App-logo {
@@ -22,17 +15,18 @@
 }
 
 .App-header {
+  color: #eeeeee;
   background-color: #eeeeee;
-  min-height: 600px;
-  min-width: 800px;
+  min-height: 1024px;
+  min-width: 1024px;
   max-height: 100vh;
-  overflow-y: auto;
+  overflow-y: hidden;
+  overflow-x: auto;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
 }
 
 .App-link {
