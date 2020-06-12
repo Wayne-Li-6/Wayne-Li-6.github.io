@@ -1,0 +1,42 @@
+.pa1 {
+    fill: none;
+    stroke: #282c34;
+    stroke-width: 10;
+    stroke-linecap: round;
+    stroke-miterlimit: 10;
+}
+
+.pa2 {
+    stroke: #282c34;
+    fill: #282c34;
+    stroke-width: 10;
+    stroke-linecap: round;
+    stroke-miterlimit: 10;
+}
+
+.c1 {
+    stroke: none;
+    fill: none;
+}
+
+.re1 {
+    fill: none;
+    stroke: #282c34;
+    stroke-width: 6;
+}
+
+#re2 {
+    fill: none;
+    stroke: #282c34;
+    stroke-width: 6;
+}
+
+#re3 {
+    fill: none;
+    stroke: #282c34;
+    stroke-width: 6;
+}
+
+.ts1 {
+    opacity: 0;
+}
