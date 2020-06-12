@@ -15,7 +15,6 @@ class Contact extends React.Component {
             opacity: 0.08,
             delay: 500,
         })
-        introTimeline
         .add({
             targets: '.pa2',
             easing: 'easeOutQuad',
@@ -28,20 +27,20 @@ class Contact extends React.Component {
             easing: 'easeInOutQuad',
             duration: 1500,
             fill: "#282c34",
-        }, '1200')
+        }, '1000')
         .add({
             targets: '.c1',
             easing: 'easeInOutQuad',
             duration: 1500,
             fill: "#282c34",
-        }, '1200')
+        }, '1000')
         .add({
             targets: '.ts1',
             easing: 'easeInQuad',
             duration: 500,
             opacity: 1,
             delay: anime.stagger(100),
-        }, '2000');
+        }, '1500');
     }
 
     componentDidMount() {
