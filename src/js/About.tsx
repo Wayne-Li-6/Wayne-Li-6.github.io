@@ -65,29 +65,25 @@ class About extends React.Component {
                     <text className="bd1" x="5%" y="8%">
                         <tspan className="ts1" x="4%"   dy="60"     textAnchor="start">Hey there! My name is Wayne.</tspan>
 
-                        <tspan className="ts1" x="4%"   dy="60"     textAnchor="start">I am a recent Cornell University alumni who graduated</tspan>
-                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">in the Fall of 2018 with a B.S. in Computer Science.</tspan>
+                        <tspan className="ts1" x="4%"   dy="60"     textAnchor="start">I graduated from Cornell University in 2018</tspan>
+                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">with a B.S. in Computer Science.</tspan>
                         
-                        <tspan className="ts1" x="4%"   dy="60"     textAnchor="start">Currently I am working full time as an Engineering</tspan>
-                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">Analyst for an investment bank in the New York &</tspan>
-                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">Jersey City metro area. Before that, I interned</tspan>
-                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">at a large insurance company, on their IT Hosting</tspan>
-                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">Services team.</tspan>
+                        <tspan className="ts1" x="4%"   dy="60"     textAnchor="start">Currently, I am working full time as an Engineering</tspan>
+                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">Analyst for an investment bank in the New York City</tspan>
+                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">metro area. Before that, I interned at a large</tspan>
+                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">insurance company, on their IT Hosting Services team.</tspan>
 
                         <tspan className="ts1" x="4%"   dy="60"     textAnchor="start">In my free time, I enjoy hanging out with friends</tspan>
-                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">and loved ones, or playing video games when I am</tspan>
-                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">alone. I am also an avid connoisseur of delicious</tspan>
-                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">foods and love to explore NY's various eateries.</tspan>
-                        
-                        <tspan className="ts1" x="4%"   dy="60"     textAnchor="start">My various favorites...</tspan>
-                        <tspan className="ts1" x="8%"   dy="30"     textAnchor="start">Foods &#8640; Curry & Fried Chicken</tspan>
-                        <tspan className="ts1" x="8%"   dy="30"     textAnchor="start">Kpop Group &#8640; Twice</tspan>
-                        <tspan className="ts1" x="8%"   dy="30"     textAnchor="start">Destination &#8640; Japan</tspan>
+                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">and family. I also play a lot of video games and</tspan>
+                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">love to explore NY's various restaurants & eateries.</tspan>
+                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">My favorite types of foods include ramen and curry,</tspan>
+                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">but I have also spent years perfecting what I</tspan>
+                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">consider the perfect Chipotle order ;)</tspan>                 
                         
                         <tspan className="ts1" x="4%"   dy="60"     textAnchor="start">If you would like to get in touch, feel free to</tspan>
-                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">shoot me an email or message.</tspan>
+                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">shoot me a message through email.</tspan>
 
-                        <tspan className="ts1" x="4%"   dy="60"     textAnchor="start">Hope you have a great day!</tspan>
+                        <tspan className="ts1" x="4%"   dy="60"     textAnchor="start">Thanks for visiting, and I wish you a great day!</tspan>
                     </text>
                 </g>
 
