@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Useful Commands
+
+#### `npm run start`
+
+Runs the app locally on `http://localhost:3000/`, useful for experimentation
+
+#### `npm run 
+
+
 ## Available Scripts
 
 In the project directory, you can run:

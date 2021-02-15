@@ -63,11 +63,13 @@ class Contact extends React.Component {
                 <g>
                     <text className="hd3" x="96%" y="8%" textAnchor="end">Contact</text>
                     <text className="bd1" x="5%" y="8%">
-                        <tspan className="ts1" x="96%"   dy="60"     textAnchor="end">Please email me at the following address</tspan>
-                        <tspan className="ts1" x="96%"   dy="30"     textAnchor="end">if you would like to get in touch.</tspan>
+                        <tspan className="ts1" x="96%"   dy="60"     textAnchor="end">If you would like to get in touch, </tspan>
+                        <tspan className="ts1" x="96%"   dy="30"     textAnchor="end">please feel free to email me</tspan>
+                        <tspan className="ts1" x="96%"   dy="30"     textAnchor="end">or shoot me a message on Linkedin.</tspan>
                         <tspan className="ts1" x="96%"   dy="30"     textAnchor="end">I look forward to connecting!</tspan>
 
-                        <tspan className="ts1" x="96%"   dy="90"     textAnchor="end">wayne.li.1928@gmail.com</tspan>
+                        <tspan className="ts1" x="96%"   dy="90"     textAnchor="end">Email: <a href="mailto:wyl6@cornell.edu">wyl6@cornell.edu</a></tspan>
+                        <tspan className="ts1" x="96%"   dy="30"     textAnchor="end">Linkedin: <a href="https://www.linkedin.com/in/wayne-li-wyl6/">wayne-li-wyl6</a></tspan>
                     </text>
                 </g>
 

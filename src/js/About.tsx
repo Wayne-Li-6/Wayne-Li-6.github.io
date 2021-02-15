@@ -68,22 +68,23 @@ class About extends React.Component {
                         <tspan className="ts1" x="4%"   dy="60"     textAnchor="start">I graduated from Cornell University in 2018</tspan>
                         <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">with a B.S. in Computer Science.</tspan>
                         
-                        <tspan className="ts1" x="4%"   dy="60"     textAnchor="start">Currently, I am working full time as an Engineering</tspan>
-                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">Analyst for an investment bank in the New York City</tspan>
-                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">metro area. Before that, I interned at a large</tspan>
-                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">insurance company, on their IT Hosting Services team.</tspan>
+                        <tspan className="ts1" x="4%"   dy="60"     textAnchor="start">Currently, I am located in the New York City metro</tspan>
+                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">area, working full time as an SRE Platforms</tspan>
+                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">Analyst for Goldman Sachs. Before that, I interned</tspan>
+                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">with Liberty Mutual Insurance, on their IT Hosting</tspan>
+                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">Services (Alfresco) team.</tspan>
 
-                        <tspan className="ts1" x="4%"   dy="60"     textAnchor="start">In my free time, I enjoy hanging out with friends</tspan>
-                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">and family. I also play a lot of video games and</tspan>
-                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">love to explore NY's various restaurants & eateries.</tspan>
-                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">My favorite types of foods include ramen and curry,</tspan>
+                        <tspan className="ts1" x="4%"   dy="60"     textAnchor="start">In my free time, I enjoy spending time with friends</tspan>
+                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">and family. I also love to explore NYC's various</tspan>
+                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">restaurants & eateries.</tspan>
+                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">My favorite types of foods include noodles and curry,</tspan>
                         <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">but I have also spent years perfecting what I</tspan>
                         <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">consider the perfect Chipotle order ;)</tspan>                 
                         
                         <tspan className="ts1" x="4%"   dy="60"     textAnchor="start">If you would like to get in touch, feel free to</tspan>
-                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">shoot me a message through email.</tspan>
+                        <tspan className="ts1" x="4%"   dy="30"     textAnchor="start">shoot me a message through email or LinkedIn.</tspan>
 
-                        <tspan className="ts1" x="4%"   dy="60"     textAnchor="start">Thanks for visiting, and I wish you a great day!</tspan>
+                        <tspan className="ts1" x="4%"   dy="60"     textAnchor="start">Thanks for visiting; I look forward to connecting soon!</tspan>
                     </text>
                 </g>
 
